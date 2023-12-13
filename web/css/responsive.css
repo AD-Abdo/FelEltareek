@@ -1,0 +1,2149 @@
+@media only screen and (max-width: 767px) {
+    p {
+        font-size: 15px;
+    }
+    .mt-100 {
+        margin-top: 40px;
+    }
+    .ptb-100 {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .btn {
+        font-size: 15px;
+        padding: 9px 17px;
+    }
+    .owl-theme:hover .owl-nav [class*="owl-"] {
+        left: 2px;
+    }
+    .owl-theme:hover .owl-nav .owl-next {
+        left: auto;
+        right: 2px;
+    }
+    .section-title {
+        margin-bottom: 40px;
+    }
+    .section-title h3 {
+        font-size: 25px;
+    }
+    .navbar-expand-lg>.container,
+    .navbar-expand-lg>.container-fluid {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .navbar-light .navbar-toggler {
+        outline: 0;
+        padding: 4px 10px;
+    }
+    .navbar-toggler-icon {
+        width: 1.3em;
+        height: 1.3em;
+    }
+    .navbar-nav {
+        margin-top: 10px;
+    }
+    .navbar-light .navbar-nav .nav-item {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .main-banner {
+        height: 100%;
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .main-banner-content {
+        text-align: left;
+        margin-top: 0;
+    }
+    .main-banner-content h1 {
+        font-size: 30px;
+        margin-bottom: 20px;
+        line-height: 40px;
+    }
+    .main-banner-content .btn-primary {
+        margin-right: 3px;
+    }
+    .main-banner-form {
+        margin-top: 30px;
+        padding-bottom: 25px;
+    }
+    .main-banner-form h3 {
+        font-size: 20px;
+        margin-bottom: 25px;
+        padding: 18px 0;
+    }
+    .main-banner-form form {
+        padding-left: 18px;
+        padding-right: 18px;
+    }
+    .banner-form {
+        padding: 25px 18px;
+        margin-top: 30px;
+    }
+    .hero-form {
+        padding: 25px 18px;
+        margin-top: 30px;
+        border-width: 3px;
+    }
+    .banner-img {
+        margin-top: 40px;
+    }
+    .creative-bg {
+        height: 50%;
+    }
+    .creative-bg-two {
+        display: none;
+    }
+    .main-banner .bg-bottom {
+        bottom: auto;
+        top: 0;
+    }
+    .features-area {
+        padding-bottom: 30px;
+    }
+    .single-features {
+        padding: 20px;
+        margin-bottom: 30px;
+    }
+    .about-content h3 {
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .about-content .pull-left {
+        float: none;
+        margin-right: 0 !important;
+        margin-bottom: 10px;
+    }
+    .about-img {
+        margin-top: 50px;
+    }
+    .about-img {
+        margin-top: 40px;
+        border-bottom: 1px solid #eee;
+        padding-bottom: 35px;
+    }
+    .about-text {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    .about-text span {
+        font-size: 17px;
+        width: 40px;
+        height: 40px;
+        line-height: 43px;
+    }
+    .about-text h3 {
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    .services-area {
+        padding-bottom: 30px;
+    }
+    .single-services {
+        padding: 20px;
+        text-align: center;
+    }
+    .tabs {
+        margin-bottom: 25px;
+        padding-bottom: 5px;
+    }
+    .tabs li {
+        -ms-flex: 0 0 50%;
+        -webkit-box-flex: 0;
+        flex: 0 0 50%;
+        max-width: 50%;
+        padding-right: 0;
+        margin-bottom: 25px;
+        text-align: center;
+        padding-left: 0;
+    }
+    .tabs a {
+        font-size: 16px;
+        text-align: center;
+    }
+    .tabs a i {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 26px;
+        margin-bottom: 15px;
+    }
+    .tabs_item_content {
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+    .tabs_item_content h3 {
+        font-size: 20px;
+    }
+    .funfacts-area {
+        padding-top: 60px;
+        padding-bottom: 20px;
+    }
+    .funFact {
+        padding-top: 0;
+        padding-bottom: 0;
+        margin-bottom: 40px;
+    }
+    .funFact i {
+        font-size: 25px;
+        line-height: 54px;
+        width: 55px;
+        height: 55px;
+    }
+    .funFact h3 {
+        font-size: 30px;
+    }
+    .funFact p {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .funFact::before,
+    .funFact::after {
+        display: none;
+    }
+    .fun-fact {
+        margin-bottom: 40px;
+        padding-left: 65px;
+    }
+    .fun-fact i {
+        font-size: 20px;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+    }
+    .fun-fact h3 {
+        font-size: 30px;
+    }
+    .fun-fact p {
+        font-size: 18px;
+    }
+    .join-content {
+        margin-top: 40px;
+    }
+    .join-content h3 {
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .how-works-area {
+        padding-bottom: 30px;
+    }
+    .single-box {
+        text-align: center;
+        padding: 20px;
+        margin-bottom: 30px;
+    }
+    .single-box span {
+        width: 65px;
+        height: 65px;
+        line-height: 70px;
+        font-size: 25px;
+    }
+    .single-box h3 {
+        font-size: 20px;
+    }
+    .single-box.with-line::before {
+        display: none;
+    }
+    .our-team .title {
+        font-size: 20px;
+    }
+    .testimonials-area {
+        padding-bottom: 30px;
+    }
+    .testimonials-area .section-title {
+        position: relative;
+    }
+    .testimonials-item {
+        padding: 20px;
+    }
+    .faq-img {
+        margin-top: 40px;
+    }
+    .single-team .title {
+        font-size: 20px;
+    }
+    .pricing-area {
+        padding-bottom: 30px;
+    }
+    .pricingTable {
+        padding-bottom: 20px;
+        margin-bottom: 30px;
+    }
+    .pricingTable .title {
+        padding: 20px 20px 153px;
+        margin: 0 0 30px 0;
+        font-size: 20px;
+    }
+    .pricingTable .price-value {
+        width: 115px;
+        height: 115px;
+        line-height: 60px;
+        -webkit-box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.3);
+        box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.3);
+        padding: 18px 0;
+        font-size: 24px;
+        top: 80px;
+    }
+    .pricing-table {
+        margin-bottom: 30px;
+    }
+    .pricing-table .title {
+        font-size: 20px;
+    }
+    .newsletter {
+        max-width: unset;
+        padding: 20px;
+    }
+    .subscribe-area .bg-bottom {
+        display: none;
+    }
+    .subscribe-area .bg-top {
+        height: 285px;
+    }
+    .newsletter h4 {
+        font-size: 20px;
+        line-height: 29px;
+    }
+    .newsletter form .form-control {
+        height: 60px;
+        border-radius: 0;
+        padding-left: 16px;
+        font-size: 16px;
+    }
+    .newsletter form .btn {
+        position: relative;
+        right: 0;
+        border-radius: 6px;
+        top: 0;
+        height: 50px;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .subscribe-area .pattern {
+        height: 60px;
+    }
+    .subscribe-area .pattern-2 {
+        height: 60px;
+    }
+    .page-title {
+        height: 250px;
+    }
+    .page-title .bg-top,
+    .page-title .bg-bottom {
+        display: none;
+    }
+    .page-title .pattern-2 {
+        height: 120px;
+    }
+    .page-title-content h3 {
+        font-size: 22px;
+    }
+    .contact-box .content h4 {
+        font-size: 18px;
+    }
+    .contact-text h3 {
+        font-size: 20px;
+    }
+    #contactForm {
+        margin-top: 30px;
+    }
+    .footer-area {
+        padding-bottom: 0;
+    }
+    .single-footer {
+        margin-bottom: 35px;
+    }
+    .single-footer h3 {
+        font-size: 20px;
+    }
+    .single-footer ul li a {
+        font-size: 16px;
+    }
+    .copyright-area {
+        margin-top: 0px;
+        padding: 30px 0;
+    }
+    .copyright-area p {
+        margin-top: 0;
+    }
+    .copyright-area ul {
+        text-align: center;
+        margin-top: 15px;
+    }
+    .copyright-area ul li a {
+        width: 33px;
+        height: 33px;
+        line-height: 31px;
+        font-size: 15px;
+    }
+    .top-header .header-social {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .top-header .header-social li span {
+        font-size: 13px;
+    }
+    .top-header .header-social li a {
+        font-size: 15px;
+    }
+    .top-header .location {
+        text-align: center;
+    }
+    .top-header .location span {
+        font-size: 13px;
+    }
+    .repair-main-banner {
+        padding-top: 140px;
+        padding-bottom: 270px;
+    }
+    .repair-banner-content {
+        text-align: center;
+    }
+    .repair-banner-content h2 {
+        line-height: 1.4;
+        font-size: 30px;
+        margin-bottom: 16px;
+    }
+    .repair-banner-content p {
+        margin-bottom: 20px;
+        font-size: 13px;
+    }
+    .banner-video {
+        margin-top: 45px;
+    }
+    .banner-video a {
+        width: 75px;
+        height: 75px;
+        line-height: 78px;
+        font-size: 25px;
+        margin-left: 0;
+    }
+    .banner-video a::after {
+        width: 75px;
+        height: 75px;
+    }
+    .repair-home-slides.owl-theme .owl-dots {
+        left: 0;
+        bottom: 28%;
+        right: 0;
+    }
+    .repair-boxes-area {
+        padding-bottom: 0;
+    }
+    .repair-about-content ul li {
+        width: 100%;
+        font-size: 14px;
+    }
+    .repair-about-image {
+        margin-top: 35px;
+        text-align: center;
+        padding-bottom: 45px;
+        padding-top: 45px;
+    }
+    .repair-about-image img:nth-child(2) {
+        border: 3px solid #f8fbff;
+        width: 255px;
+        position: relative;
+    }
+    .repair-about-image img:nth-child(4),
+    .repair-about-image img:nth-child(5) {
+        display: none;
+    }
+    .single-repair-services {
+        padding: 20px;
+    }
+    .single-repair-services h3 {
+        margin-bottom: 18px;
+        margin-top: 20px;
+    }
+    .repair-services-inner .col-lg-4:nth-child(2) {
+        border: none;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .single-repair-feedback {
+        padding: 20px;
+    }
+    .gallery-area {
+        padding-bottom: 30px;
+    }
+    .gallery-shorting-menu {
+        margin-bottom: 30px;
+    }
+    .gallery-shorting-menu .filter {
+        font-size: 14px;
+        margin-bottom: 8px;
+    }
+    .single-gallery-item a img {
+        width: 100%;
+    }
+    .repair-blog-area {
+        padding-bottom: 30px;
+    }
+    .single-repair-blog-post .blog-image a img {
+        width: 100%;
+    }
+    .repair-subscribe-area {
+        margin-top: -60px;
+        margin-bottom: 60px;
+    }
+    .repair-subscribe-content {
+        padding-top: 25px;
+        padding-bottom: 25px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .repair-subscribe-content h2 {
+        margin-bottom: 15px;
+        font-size: 24px;
+    }
+    .repair-subscribe-content form .form-group {
+        width: 100%;
+        padding-right: 0;
+        margin-bottom: 15px;
+    }
+    .repair-subscribe-content form .btn {
+        margin-top: 5px;
+        width: 100%;
+        padding: 12px 17px;
+    }
+    .repair-footer-area {
+        padding-top: 60px;
+    }
+    .single-footer-widget {
+        margin-bottom: 30px;
+    }
+    .single-footer-widget h3 {
+        margin-bottom: 20px;
+    }
+    .repair-copyright-area {
+        margin-top: 30px;
+        text-align: center;
+    }
+    .repair-copyright-area .text-end {
+        text-align: center !important;
+    }
+    .repair-copyright-area ul {
+        margin-top: 15px;
+    }
+    .copyright-area p {
+        text-align: center;
+    }
+    /* Start "Technology Services Demo", "SaaS Startup Demo", "NFT Startup Demo", "Crypto Startup Demo", "Responsive CSS" */
+    .ptb-100 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .pt-100 {
+        padding-top: 50px;
+    }
+    .pb-100 {
+        padding-bottom: 50px;
+    }
+    .ptb-75 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .pt-75 {
+        padding-top: 25px;
+    }
+    .pb-75 {
+        padding-bottom: 25px;
+    }
+    .ts-section-title h3 {
+        font-size: 30px;
+    }
+    .navbar-area-with-ts {
+        background-color: #000000 !important;
+    }
+    .navbar-area-with-ts .container-fluid {
+        max-width: 540px;
+    }
+    .navbar-area-with-ts::before {
+        display: none;
+    }
+    .navbar-area-with-ts::after {
+        display: none;
+    }
+    .navbar-area-with-ts .navbar-nav .nav-link {
+        color: #FFFFFF;
+    }
+    .navbar-area-with-ts .others-option {
+        margin-top: 10px;
+    }
+    .navbar-area-with-ts .others-option.d-flex {
+        display: inline-block !important;
+    }
+    .navbar-area-with-ts .others-option .option-item {
+        display: block;
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+    .navbar-area-with-ts .others-option .option-item:last-child {
+        margin-bottom: 0;
+    }
+    .ts-main-banner-area {
+        padding-top: 80px;
+        padding-bottom: 180px;
+    }
+    .ts-main-banner-area .container-fluid {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+        max-width: 540px;
+    }
+    .ts-banner-content h1 {
+        font-size: 32px;
+    }
+    .ts-banner-image {
+        margin-top: 35px;
+        text-align: center;
+    }
+    .ts-services-inner-area {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .ts-services-card h3 {
+        font-size: 18px;
+    }
+    .ts-about-image {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .ts-about-content {
+        padding: 25px;
+        margin-left: 0;
+    }
+    .ts-about-content h3 {
+        font-size: 28px;
+    }
+    .ts-about-content .wrap-shape {
+        display: none;
+    }
+    .ts-about-content .about-btn {
+        margin-top: 25px;
+    }
+    .ts-offer-card h3 {
+        font-size: 18px;
+    }
+    .ts-offer-card .offer-btn {
+        font-size: 14px;
+    }
+    .ts-feedback-image {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .ts-feedback-slides {
+        padding-left: 0;
+    }
+    .ts-feedback-card p {
+        font-size: 18px;
+    }
+    .ts-feedback-card .info {
+        margin-top: 20px;
+    }
+    .ts-feedback-shape {
+        display: none;
+    }
+    .ts-choose-area::before {
+        display: none;
+    }
+    .ts-choose-content h3 {
+        font-size: 28px;
+    }
+    .ts-choose-content .choose-inner-card {
+        padding-left: 75px;
+    }
+    .ts-choose-content .choose-inner-card h4 {
+        font-size: 18px;
+    }
+    .ts-choose-content .choose-inner-card::before {
+        display: none;
+    }
+    .ts-choose-image {
+        padding: 0px 0 0 0;
+        margin-top: 30px;
+    }
+    .ts-choose-image .text {
+        padding-top: 20px;
+        padding-left: 0;
+    }
+    .ts-choose-image .text span {
+        font-size: 15px;
+    }
+    .ts-partner-title h3 {
+        font-size: 18px;
+    }
+    .ts-pricing-section-content h3 {
+        font-size: 28px;
+    }
+    .ts-pricing-card {
+        padding: 20px;
+        margin-top: 30px;
+    }
+    .ts-pricing-card .pricing-header h3 {
+        font-size: 18px;
+    }
+    .ts-pricing-card .price {
+        font-size: 30px;
+    }
+    .ts-pricing-shape {
+        display: none;
+    }
+    .ts-solution-area .container-fluid {
+        max-width: 540px;
+    }
+    .ts-solution-image {
+        height: 450px;
+    }
+    .ts-solution-content {
+        padding: 50px 15px;
+    }
+    .ts-solution-content h3 {
+        font-size: 28px;
+    }
+    .ts-solution-content .solution-inner-card h4 {
+        font-size: 18px;
+    }
+    .ts-solution-shape {
+        display: none;
+    }
+    .ts-blog-card {
+        padding: 20px;
+    }
+    .ts-blog-card .meta li {
+        font-size: 15px;
+    }
+    .ts-blog-card h3 {
+        font-size: 20px;
+    }
+    .ts-blog-card .blog-btn {
+        font-size: 14px;
+    }
+    .ts-blog-shape1 {
+        display: none;
+    }
+    .ts-overview-content h3 {
+        font-size: 28px;
+    }
+    .ts-overview-btn {
+        text-align: start;
+        margin-top: 25px;
+    }
+    .single-footer-card.ps-5 {
+        padding-left: 0 !important;
+    }
+    .single-footer-card h3 {
+        font-size: 20px;
+    }
+    .single-footer-card .links li {
+        font-size: 14px;
+    }
+    .ps-5 {
+        padding-left: 0 !important;
+    }
+    .copyright-wrap-area {
+        margin-top: 25px;
+        text-align: center;
+    }
+    .copyright-wrap-area .inner-border .list {
+        text-align: center;
+    }
+    .crypto-section-title {
+        padding-top: 25px;
+    }
+    .crypto-section-title .big-text {
+        font-size: 45px;
+        top: 0;
+    }
+    .crypto-section-title h3 {
+        font-size: 28px;
+    }
+    .crypto-main-banner-area {
+        overflow: hidden;
+        padding-top: 65px;
+        padding-bottom: 50px;
+    }
+    .crypto-main-banner-area .container-fluid {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+        max-width: 540px;
+    }
+    .crypto-banner-content {
+        padding-top: 40px;
+    }
+    .crypto-banner-content .big-text {
+        font-size: 60px;
+        top: 0;
+    }
+    .crypto-banner-content h1 {
+        font-size: 32px;
+    }
+    .crypto-banner-content .crypto-btn li .default-btn {
+        padding: 10px 20px;
+    }
+    .crypto-banner-image {
+        text-align: center;
+        margin-top: 35px;
+    }
+    .crypto-about-left-content {
+        padding: 20px 18px;
+    }
+    .crypto-about-left-content h3 {
+        font-size: 25px;
+    }
+    .crypto-about-left-content .sub {
+        font-size: 15px;
+    }
+    .crypto-about-left-content .about-countdown li {
+        font-size: 18px;
+        padding: 10px;
+        margin-right: 5px;
+    }
+    .crypto-about-left-content .about-countdown li .sub-title {
+        font-size: 12px;
+    }
+    .crypto-about-left-content .about-btn {
+        margin-top: 25px;
+    }
+    .crypto-about-left-content .about-btn li {
+        margin-right: 5px;
+        font-size: 10px;
+    }
+    .crypto-about-left-content .about-btn li .default-btn {
+        padding: 12px 10px;
+        font-size: 12px;
+    }
+    .crypto-about-right-content {
+        padding-left: 0;
+        margin-top: 30px;
+    }
+    .crypto-about-right-content h3 {
+        font-size: 25px;
+    }
+    .crypto-about-right-content .bold {
+        font-size: 15px;
+    }
+    .crypto-work-content {
+        padding-right: 0;
+        padding-top: 40px;
+    }
+    .crypto-work-content .big-text {
+        font-size: 55px;
+        top: 0;
+    }
+    .crypto-work-content h3 {
+        font-size: 25px;
+    }
+    .crypto-work-content .work-card .content h3 {
+        font-size: 18px;
+    }
+    .crypto-work-image {
+        margin-top: 35px;
+        text-align: center;
+    }
+    .token-content .title {
+        font-size: 20px;
+    }
+    .token-distribution-content {
+        padding: 25px;
+        margin: 30px auto 0;
+    }
+    .token-distribution-content h3 {
+        font-size: 20px;
+    }
+    .crypto-process-card h3 {
+        font-size: 20px;
+    }
+    .jtimeline {
+        padding: 130px 130px;
+    }
+    .crypto-team-card .team-content h3 {
+        font-size: 20px;
+    }
+    .team-section-title h3 {
+        font-size: 28px;
+    }
+    .crypto-faqs-list-tabs .nav .nav-item .nav-link {
+        padding: 10px 22px;
+        font-size: 15px;
+    }
+    .crypto-faqs-content {
+        padding-left: 0;
+        margin-top: 35px;
+    }
+    .crypto-faqs-content .content {
+        padding-top: 40px;
+    }
+    .crypto-faqs-content .content .big-text {
+        font-size: 55px;
+        top: 0;
+    }
+    .crypto-faqs-content .content h3 {
+        font-size: 25px;
+    }
+    .crypto-contact-form {
+        padding: 30px;
+    }
+    .crypto-contact-form h3 {
+        font-size: 25px;
+    }
+    .crypto-contact-info {
+        padding: 30px;
+    }
+    .crypto-contact-info h3 {
+        font-size: 25px;
+    }
+    .crypto-contact-info .list li a span {
+        font-size: 15px;
+    }
+    .saas-section-title h3 {
+        font-size: 30px;
+    }
+    .saas-main-banner-area {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .saas-main-banner-area .container-fluid {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+        max-width: 540px;
+    }
+    .saas-banner-image {
+        text-align: center;
+        margin-top: 35px;
+    }
+    .saas-banner-content h1 {
+        font-size: 32px;
+    }
+    .saas-banner-content .banner-btn {
+        margin-top: 20px;
+    }
+    .saas-banner-shape1,
+    .saas-banner-shape2,
+    .saas-banner-shape3 {
+        display: none;
+    }
+    .saas-boxes-card h3 {
+        font-size: 20px;
+    }
+    .saas-boxes-shape {
+        display: none;
+    }
+    .saas-key-features-area .container-fluid {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+        max-width: 540px;
+    }
+    .saas-key-features-image {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .saas-key-features-content {
+        padding-left: 0;
+    }
+    .saas-key-features-content h3 {
+        font-size: 25px;
+    }
+    .saas-key-features-content .features-inner-card h4 {
+        font-size: 20px;
+    }
+    .saas-work-section-content {
+        margin-bottom: 30px;
+    }
+    .saas-work-section-content h3 {
+        font-size: 25px;
+    }
+    .saas-work-section-content .work-btn {
+        margin-top: 18px;
+    }
+    .saas-work-shape1,
+    .saas-work-shape2,
+    .saas-work-shape3 {
+        display: none;
+    }
+    .saas-work-with-inner-color {
+        padding: 30px 20px;
+    }
+    .saas-work-with-inner-color::before {
+        left: 0;
+    }
+    .saas-work-with-inner-color .row .col-lg-6:nth-child(2) {
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    .saas-work-card {
+        padding: 30px 22px;
+    }
+    .saas-work-card h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .saas-benefits-content {
+        padding-right: 0;
+    }
+    .saas-benefits-content h3 {
+        font-size: 25px;
+        margin-bottom: 12px;
+    }
+    .saas-benefits-content .benefits-inner-card h4 {
+        font-size: 20px;
+        margin-bottom: 12px;
+    }
+    .saas-benefits-image {
+        margin-top: 30px;
+    }
+    .saas-services-card {
+        padding: 25px;
+    }
+    .saas-services-card h3 {
+        font-size: 20px;
+        margin-bottom: 12px;
+    }
+    .saas-services-inner-area .container-fluid {
+        left: 0;
+        max-width: 540px;
+    }
+    .saas-services-slides.owl-theme .owl-nav {
+        left: 0;
+    }
+    .saas-services-slides.owl-theme .owl-nav::before {
+        display: none;
+    }
+    .saas-services-slides.owl-theme .owl-nav::after {
+        display: none;
+    }
+    .saas-team-card .content h3 {
+        font-size: 22px;
+    }
+    .saas-feedback .ts-feedback-slides {
+        padding-left: 0;
+    }
+    .saas-app-download-inner {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .saas-app-download-content {
+        top: 0;
+        padding-right: 0;
+    }
+    .saas-app-download-content h2 {
+        font-size: 25px;
+    }
+    .saas-app-download-content .btn-box .playstore-btn {
+        margin-bottom: 10px;
+    }
+    .saas-app-download-image {
+        text-align: center;
+        margin-top: 35px;
+    }
+    .navbar-area-with-nft .others-option {
+        margin-top: 15px;
+    }
+    .navbar-area-with-nft .others-option.d-flex {
+        display: block !important;
+    }
+    .navbar-area-with-nft .others-option .option-item {
+        display: block;
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+    .navbar-area-with-nft .others-option .option-item:last-child {
+        margin-bottom: 0;
+    }
+    .navbar-area-with-nft .others-option .option-item .search-box {
+        width: 230px;
+    }
+    .nft-section-title h2 {
+        font-size: 30px;
+    }
+    .nft-section-title .nft-title-btn {
+        display: none;
+    }
+    .nft-main-banner-area {
+        border-bottom: 1px solid #f5f5f5;
+    }
+    .nft-main-banner-area .container-fluid {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+        max-width: 540px;
+    }
+    .nft-banner-content {
+        margin-bottom: 35px;
+    }
+    .nft-banner-content h1 {
+        font-size: 35px;
+    }
+    .nft-banner-card {
+        padding: 20px;
+        margin: 0;
+        border: 1px solid #f9f9f9;
+    }
+    .nft-banner-card .banner-content.d-flex {
+        display: block !important;
+    }
+    .nft-banner-card .banner-content .info {
+        margin-bottom: 15px;
+    }
+    .nft-banner-card .banner-content .info .title h3 {
+        font-size: 20px;
+    }
+    .nft-features-area {
+        padding-top: 50px;
+    }
+    .nft-features-card {
+        padding: 25px 20px;
+    }
+    .nft-features-card h3 {
+        font-size: 20px;
+    }
+    .nft-catergory-card {
+        padding: 15px;
+    }
+    .nft-catergory-card h3 {
+        font-size: 18px;
+    }
+    .collections-card.d-flex {
+        display: block !important;
+    }
+    .collections-card .sub {
+        display: inline-block;
+        margin-top: 15px;
+    }
+    .collections-card .content img {
+        max-width: 100px;
+    }
+    .collections-card .content .title h3 {
+        font-size: 18px;
+    }
+    .artwork-list-tabs .nav {
+        margin-bottom: 30px;
+    }
+    .artwork-list-tabs .nav .nav-item {
+        margin-right: 8px;
+    }
+    .artwork-list-tabs .nav .nav-item .nav-link {
+        font-size: 12px;
+    }
+    .collectors-card .content h3 {
+        font-size: 18px;
+    }
+    /* End "Technology Services Demo", "SaaS Startup Demo", "NFT Startup Demo", "Crypto Startup Demo", "Responsive CSS" */
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .ptb-100 {
+        padding-bottom: 80px;
+        padding-top: 80px;
+    }
+    .mt-100 {
+        margin-top: 50px;
+    }
+    .btn {
+        padding: 10px 24px;
+    }
+    .navbar-light .navbar-toggler {
+        border-color: #5882fd;
+        outline: 0;
+        padding: 4px 10px;
+    }
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(88, 130, 253, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+    }
+    .navbar-toggler-icon {
+        width: 1.3em;
+        height: 1.3em;
+    }
+    .navbar-nav {
+        margin-top: 10px;
+    }
+    .navbar-light .navbar-nav .nav-item {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .main-banner {
+        height: 100%;
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .main-banner-content {
+        margin-top: 0;
+    }
+    .main-banner-content h1 {
+        font-size: 36px;
+    }
+    .main-banner-content .btn-primary {
+        margin-right: 3px;
+    }
+    .main-banner-form h3 {
+        font-size: 20px;
+        padding: 20px 0;
+    }
+    .banner-form {
+        padding: 20px 15px;
+    }
+    .hero-form {
+        padding: 20px 15px;
+        border-width: 3px;
+    }
+    .features-area {
+        padding-bottom: 50px;
+    }
+    .single-features {
+        margin-bottom: 30px;
+    }
+    .about-img {
+        text-align: center;
+        margin-top: 45px;
+    }
+    .about-area .img {
+        margin-top: 90px;
+    }
+    .services-area {
+        padding-bottom: 50px;
+    }
+    .tabs {
+        margin-bottom: 30px;
+        padding-bottom: 10px;
+    }
+    .tabs li {
+        -ms-flex: 0 0 33.3333333333%;
+        -webkit-box-flex: 0;
+        flex: 0 0 33.3333333333%;
+        max-width: 33.3333333333%;
+        padding-right: 0;
+        padding-left: 0;
+        margin-bottom: 25px;
+    }
+    .fun-fact {
+        padding-left: 65px;
+        margin-bottom: 30px;
+    }
+    .fun-fact i {
+        font-size: 25px;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+    }
+    .fun-fact h3 {
+        font-size: 30px;
+    }
+    .fun-fact p {
+        font-size: 18px;
+    }
+    .col-lg-3:nth-child(3) .fun-fact,
+    .col-lg-3:nth-child(4) .fun-fact {
+        margin-bottom: 0;
+    }
+    .join-content {
+        margin-top: 0;
+    }
+    .join-content h3 {
+        font-size: 26px;
+    }
+    .how-works-area {
+        padding-bottom: 50px;
+    }
+    .single-box {
+        margin-bottom: 30px;
+    }
+    .single-box.with-line::before {
+        display: none;
+    }
+    .testimonials-area {
+        padding-bottom: 50px;
+    }
+    .faq-img {
+        text-align: center;
+        margin-top: 45px;
+    }
+    .pricing-area {
+        padding-bottom: 50px;
+    }
+    .pricingTable {
+        margin-bottom: 30px;
+    }
+    .pricing-table {
+        margin-bottom: 30px;
+    }
+    .page-title {
+        height: 300px;
+    }
+    .page-title .bg-top,
+    .page-title .bg-bottom {
+        display: none;
+    }
+    .page-title .pattern-2 {
+        height: 135px;
+    }
+    .footer-area {
+        padding-bottom: 0;
+    }
+    .single-footer {
+        margin-bottom: 30px;
+    }
+    .copyright-area {
+        margin-top: 0px;
+    }
+    .repair-main-banner {
+        padding-top: 160px;
+        padding-bottom: 270px;
+    }
+    .repair-banner-content {
+        text-align: center;
+    }
+    .repair-banner-content h2 {
+        line-height: 1.2;
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    .repair-banner-content p {
+        font-size: 17px;
+        margin: 0 auto 25px;
+    }
+    .repair-home-slides.owl-theme .owl-dots {
+        left: 0;
+        bottom: 24%;
+        right: 0;
+    }
+    .banner-video {
+        margin-top: 50px;
+    }
+    .banner-video a {
+        margin-left: -0;
+    }
+    .repair-boxes-area {
+        padding-bottom: 0;
+    }
+    .single-repair-box::before,
+    .single-repair-box::after {
+        display: none;
+    }
+    .repair-about-image {
+        text-align: center;
+        margin-top: 35px;
+    }
+    .repair-about-image img:nth-child(2) {
+        width: 350px;
+        position: relative;
+    }
+    .repair-about-image img:nth-child(4),
+    .repair-about-image img:nth-child(5) {
+        display: none;
+    }
+    .repair-services-inner .col-lg-4:nth-child(2) {
+        border: none;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .single-repair-feedback {
+        padding: 20px;
+    }
+    .gallery-area {
+        padding-bottom: 50px;
+    }
+    .repair-blog-area {
+        padding-bottom: 50px;
+    }
+    .repair-subscribe-content form .form-group {
+        width: 33%;
+        padding-right: 15px;
+    }
+    .repair-subscribe-content form .btn {
+        width: 21%;
+        margin-top: 20px;
+    }
+    .repair-subscribe-area {
+        margin-top: -80px;
+        margin-bottom: 80px;
+    }
+    .repair-footer-area {
+        padding-top: 80px;
+    }
+    .single-footer-widget {
+        margin-bottom: 30px;
+    }
+    .repair-copyright-area {
+        margin-top: 50px;
+    }
+    /* Start "Technology Services Demo", "SaaS Startup Demo", "NFT Startup Demo", "Crypto Startup Demo", "Responsive CSS" */
+    .ptb-100 {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .pt-100 {
+        padding-top: 70px;
+    }
+    .pb-100 {
+        padding-bottom: 70px;
+    }
+    .ptb-75 {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .pt-75 {
+        padding-top: 45px;
+    }
+    .pb-75 {
+        padding-bottom: 45px;
+    }
+    .navbar-area-with-ts {
+        background-color: #000000 !important;
+    }
+    .navbar-area-with-ts .container-fluid {
+        max-width: 720px;
+        padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+    }
+    .navbar-area-with-ts::before {
+        display: none;
+    }
+    .navbar-area-with-ts::after {
+        display: none;
+    }
+    .navbar-area-with-ts .navbar-nav .nav-link {
+        color: #FFFFFF;
+    }
+    .ts-main-banner-area {
+        padding-top: 80px;
+        padding-bottom: 180px;
+    }
+    .ts-main-banner-area .container-fluid {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+        max-width: 720px;
+    }
+    .ts-banner-content h1 {
+        font-size: 55px;
+    }
+    .ts-banner-image {
+        margin-top: 35px;
+        text-align: center;
+    }
+    .ts-services-inner-area {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .ts-about-image {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .ts-about-content {
+        padding: 35px;
+        margin-left: 0;
+    }
+    .ts-feedback-image {
+        text-align: start !important;
+        margin-bottom: 30px;
+    }
+    .ts-feedback-slides {
+        padding-left: 0;
+    }
+    .ts-feedback-shape {
+        display: none;
+    }
+    .ts-choose-area::before {
+        display: none;
+    }
+    .ts-choose-content .choose-inner-card {
+        padding-left: 75px;
+    }
+    .ts-choose-content .choose-inner-card::before {
+        display: none;
+    }
+    .ts-choose-image {
+        padding: 0px 0 0 0;
+        margin-top: 30px;
+    }
+    .ts-choose-image .text {
+        padding-top: 20px;
+        padding-left: 0;
+    }
+    .ts-pricing-card {
+        margin-top: 30px;
+    }
+    .ts-pricing-card .pricing-header h3 {
+        font-size: 18px;
+    }
+    .ts-pricing-card .price {
+        font-size: 30px;
+    }
+    .ts-pricing-shape {
+        display: none;
+    }
+    .ts-solution-area .container-fluid {
+        max-width: 720px;
+    }
+    .ts-solution-image {
+        height: 650px;
+    }
+    .ts-solution-content {
+        padding: 50px 15px;
+    }
+    .ts-solution-shape {
+        display: none;
+    }
+    .ts-blog-card {
+        padding: 25px;
+    }
+    .ts-blog-shape1 {
+        display: none;
+    }
+    .ts-overview-btn {
+        text-align: start;
+        margin-top: 25px;
+    }
+    .single-footer-card.ps-5 {
+        padding-left: 0 !important;
+    }
+    .single-footer-card h3 {
+        font-size: 20px;
+    }
+    .single-footer-card .links li {
+        font-size: 14px;
+    }
+    .copyright-wrap-area {
+        margin-top: 45px;
+    }
+    .crypto-section-title {
+        padding-top: 25px;
+    }
+    .crypto-section-title .big-text {
+        font-size: 45px;
+        top: 0;
+    }
+    .crypto-main-banner-area {
+        overflow: hidden;
+        padding-top: 65px;
+        padding-bottom: 50px;
+    }
+    .crypto-main-banner-area .container-fluid {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+        max-width: 720px;
+    }
+    .crypto-banner-content {
+        padding-top: 40px;
+    }
+    .crypto-banner-content .big-text {
+        font-size: 60px;
+        top: 0;
+    }
+    .crypto-banner-content h1 {
+        font-size: 50px;
+    }
+    .crypto-banner-image {
+        text-align: center;
+        margin-top: 35px;
+    }
+    .crypto-about-left-content h3 {
+        font-size: 32px;
+    }
+    .crypto-about-right-content {
+        padding-left: 0;
+        margin-top: 30px;
+    }
+    .crypto-about-right-content h3 {
+        font-size: 32px;
+    }
+    .crypto-work-content {
+        padding-right: 0;
+        padding-top: 40px;
+    }
+    .crypto-work-content .big-text {
+        font-size: 55px;
+        top: 0;
+    }
+    .crypto-work-content h3 {
+        font-size: 32px;
+    }
+    .crypto-work-image {
+        margin-top: 35px;
+        text-align: center;
+    }
+    .token-content .title {
+        font-size: 20px;
+    }
+    .token-distribution-content {
+        padding: 25px;
+        margin: 30px auto 0;
+    }
+    .token-distribution-content h3 {
+        font-size: 20px;
+    }
+    .jtimeline {
+        padding: 130px 130px;
+    }
+    .team-section-title h3 {
+        font-size: 32px;
+    }
+    .crypto-faqs-list-tabs .nav .nav-item .nav-link {
+        padding: 10px 22px;
+        font-size: 15px;
+    }
+    .crypto-faqs-content {
+        padding-left: 0;
+        margin-top: 35px;
+    }
+    .crypto-faqs-content .content {
+        padding-top: 40px;
+    }
+    .crypto-faqs-content .content .big-text {
+        font-size: 55px;
+        top: 0;
+    }
+    .crypto-faqs-content .content h3 {
+        font-size: 32px;
+    }
+    .crypto-contact-form {
+        padding: 30px;
+    }
+    .crypto-contact-form h3 {
+        font-size: 25px;
+    }
+    .crypto-contact-info {
+        padding: 30px;
+    }
+    .crypto-contact-info h3 {
+        font-size: 25px;
+    }
+    .crypto-contact-info .list li a span {
+        font-size: 15px;
+    }
+    .saas-main-banner-area {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .saas-main-banner-area .container-fluid {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+        max-width: 720px;
+    }
+    .saas-banner-image {
+        text-align: center;
+        margin-top: 35px;
+    }
+    .saas-banner-content h1 {
+        font-size: 50px;
+    }
+    .saas-banner-content .banner-btn {
+        margin-top: 20px;
+    }
+    .saas-banner-shape1,
+    .saas-banner-shape2,
+    .saas-banner-shape3 {
+        display: none;
+    }
+    .saas-boxes-card h3 {
+        font-size: 20px;
+    }
+    .saas-boxes-shape {
+        display: none;
+    }
+    .saas-key-features-area .container-fluid {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+        max-width: 720px;
+    }
+    .saas-key-features-image {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .saas-key-features-content {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .saas-work-section-content {
+        margin-bottom: 30px;
+    }
+    .saas-work-shape1,
+    .saas-work-shape2,
+    .saas-work-shape3 {
+        display: none;
+    }
+    .saas-work-with-inner-color {
+        padding: 30px 20px;
+    }
+    .saas-work-with-inner-color::before {
+        left: -50px;
+    }
+    .saas-work-card {
+        padding: 30px 22px;
+    }
+    .saas-work-card h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .saas-benefits-content {
+        padding-right: 0;
+    }
+    .saas-benefits-image {
+        margin-top: 30px;
+    }
+    .saas-services-card {
+        padding: 25px;
+    }
+    .saas-services-card h3 {
+        font-size: 20px;
+        margin-bottom: 12px;
+    }
+    .saas-services-inner-area .container-fluid {
+        left: 0;
+        max-width: 720px;
+    }
+    .saas-services-slides.owl-theme .owl-nav {
+        left: 0;
+    }
+    .saas-services-slides.owl-theme .owl-nav::before {
+        display: none;
+    }
+    .saas-services-slides.owl-theme .owl-nav::after {
+        display: none;
+    }
+    .saas-team-card .content h3 {
+        font-size: 22px;
+    }
+    .saas-feedback .ts-feedback-slides {
+        padding-left: 0;
+    }
+    .saas-app-download-inner {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .saas-app-download-content {
+        top: 0;
+        padding-right: 0;
+    }
+    .saas-app-download-image {
+        text-align: center;
+        margin-top: 35px;
+    }
+    .nft-main-banner-area {
+        border-bottom: 1px solid #f5f5f5;
+    }
+    .nft-main-banner-area .container-fluid {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+        max-width: 720px;
+    }
+    .nft-banner-content {
+        margin-bottom: 35px;
+    }
+    .nft-banner-content h1 {
+        font-size: 65px;
+    }
+    .nft-banner-card {
+        margin: 0;
+        border: 1px solid #f9f9f9;
+    }
+    .nft-banner-card .banner-content .info {
+        margin-bottom: 15px;
+    }
+    .nft-banner-card .banner-content .info .title h3 {
+        font-size: 20px;
+    }
+    .nft-features-area {
+        padding-top: 70px;
+    }
+    .nft-features-card {
+        padding: 25px 20px;
+    }
+    .nft-features-card h3 {
+        font-size: 20px;
+    }
+    .collections-card.d-flex {
+        display: block !important;
+    }
+    .collections-card .sub {
+        display: inline-block;
+        margin-top: 15px;
+    }
+    .collections-card .content img {
+        max-width: 100px;
+    }
+    .collections-card .content .title h3 {
+        font-size: 18px;
+    }
+    .collectors-card .content h3 {
+        font-size: 18px;
+    }
+    /* End "Technology Services Demo", "SaaS Startup Demo", "NFT Startup Demo", "Crypto Startup Demo", "Responsive CSS" */
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .main-banner-content {
+        margin-top: 0;
+    }
+    .single-features {
+        padding: 20px;
+    }
+    .tabs a {
+        font-size: 16px;
+    }
+    .join-content {
+        margin-top: 35px;
+    }
+    .testimonials-item {
+        padding: 20px;
+    }
+    .repair-home-slides.owl-theme .owl-dots {
+        left: 4.5%;
+    }
+    /* Start "Technology Services Demo", "SaaS Startup Demo", "NFT Startup Demo", "Crypto Startup Demo", "Responsive CSS" */
+    .navbar-area-with-ts::before {
+        width: 200px;
+    }
+    .navbar-area-with-ts .container-fluid {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+        max-width: 960px;
+    }
+    .navbar-area-with-ts .navbar-brand {
+        font-size: 30px;
+        color: #ffffff;
+        margin-right: 0;
+    }
+    .navbar-area-with-ts .navbar-nav .nav-link {
+        padding-right: 5px;
+        padding-left: 5px;
+    }
+    .navbar-area-with-ts .others-option .option-item .default-btn {
+        background-color: #F06334;
+        padding: 15px;
+    }
+    .ts-main-banner-area .container-fluid {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+        max-width: 960px;
+    }
+    .ts-banner-content h1 {
+        font-size: 50px;
+    }
+    .ts-about-content {
+        padding: 42px;
+        margin-left: -122px;
+    }
+    .ts-about-content h3 {
+        font-size: 32px;
+    }
+    .ts-offer-card {
+        padding: 25px 20px;
+    }
+    .ts-feedback-slides {
+        padding-left: 45px;
+    }
+    .ts-feedback-card p {
+        font-size: 22px;
+    }
+    .ts-choose-area::before {
+        width: 70px;
+    }
+    .ts-choose-image .text {
+        padding-left: 15px;
+    }
+    .ts-blog-card {
+        padding: 20px;
+    }
+    .single-footer-card .newsletter-form .default-btn {
+        padding: 0 8px;
+    }
+    .crypto-banner-content {
+        padding-top: 55px;
+    }
+    .crypto-banner-content .big-text {
+        font-size: 100px;
+        top: 0;
+    }
+    .crypto-banner-content h1 {
+        font-size: 50px;
+    }
+    .crypto-about-left-content {
+        padding: 30px 20px;
+    }
+    .crypto-about-left-content .about-countdown li {
+        padding: 12px 15px;
+        margin-right: 10px;
+    }
+    .crypto-about-right-content {
+        padding-left: 30px;
+    }
+    .crypto-work-content {
+        padding-right: 0;
+    }
+    .crypto-work-content .work-card .content {
+        padding-left: 68px;
+    }
+    .crypto-work-content .work-card .content .icon {
+        width: 55px;
+        height: 55px;
+        line-height: 55px;
+    }
+    .crypto-work-content .work-card .content .icon img {
+        max-width: 30px;
+    }
+    .crypto-team-card {
+        padding: 25px 20px;
+    }
+    .crypto-team-card .team-content span {
+        font-size: 15px;
+    }
+    .crypto-faqs-content {
+        padding-left: 30px;
+    }
+    .saas-boxes-card h3 {
+        font-size: 20px;
+    }
+    .saas-work-with-inner-color {
+        padding-left: 65px;
+    }
+    .saas-work-card {
+        padding: 15px;
+    }
+    .saas-benefits-content {
+        padding-right: 0;
+    }
+    .saas-services-inner-area .container-fluid {
+        left: 0;
+        max-width: 960px;
+    }
+    .saas-services-slides.owl-theme .owl-nav {
+        left: 0;
+    }
+    .saas-services-slides.owl-theme .owl-nav::before {
+        display: none;
+    }
+    .saas-services-slides.owl-theme .owl-nav::after {
+        display: none;
+    }
+    .saas-services-card {
+        padding: 25px 20px;
+    }
+    .saas-services-card h3 {
+        font-size: 22px;
+    }
+    .saas-team-card {
+        padding: 20px;
+    }
+    .saas-team-card .social-icon {
+        right: 10px;
+        top: 10px;
+    }
+    .ts-pricing-card {
+        padding: 20px;
+    }
+    .saas-app-download-inner {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .saas-app-download-content {
+        padding-right: 0;
+    }
+    .ts-blog-card h3 {
+        font-size: 22px;
+    }
+    .navbar-area-with-nft .others-option .option-item {
+        margin-right: 10px;
+    }
+    .navbar-area-with-nft .others-option .option-item .search-box {
+        width: 200px;
+    }
+    .nft-main-banner-area {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .nft-banner-content h1 {
+        font-size: 65px;
+    }
+    .nft-banner-card {
+        padding: 20px;
+        margin: 0;
+        border: 1px solid #f5f5f5;
+    }
+    .nft-features-card {
+        padding: 20px;
+    }
+    .nft-features-card h3 {
+        font-size: 18px;
+    }
+    .nft-catergory-card {
+        padding: 12px;
+    }
+    .nft-catergory-card h3 {
+        font-size: 18px;
+    }
+    .collectors-card .content h3 {
+        font-size: 18px;
+    }
+    /* End "Technology Services Demo", "SaaS Startup Demo", "NFT Startup Demo", "Crypto Startup Demo", "Responsive CSS" */
+}
+
+@media only screen and (min-width: 1550px) {
+    .repair-home-slides.owl-theme .owl-dots {
+        left: 16.1%;
+        bottom: 28%;
+    }
+    /* Start "Technology Services Demo", "SaaS Startup Demo", "NFT Startup Demo", "Crypto Startup Demo", "Responsive CSS" */
+    .navbar-area-with-ts::before {
+        width: 300px;
+    }
+    .navbar-area-with-ts::after {
+        width: 300px;
+    }
+    .navbar-area-with-ts .container-fluid {
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+    .navbar-area-with-saas .container-fluid {
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+    .navbar-area-with-nft .container-fluid {
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+    .navbar-area-with-crypto .container-fluid {
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+    .ts-main-banner-area .container-fluid {
+        padding-left: 180px;
+        padding-right: 100px;
+    }
+    .ts-banner-content h1 {
+        font-size: 75px;
+    }
+    .ts-choose-area::before {
+        width: 380px;
+    }
+    .ts-solution-content {
+        padding: 100px 185px 100px 80px;
+    }
+    .saas-main-banner-area .container-fluid {
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+    .saas-banner-content h1 {
+        font-size: 95px;
+    }
+    .saas-key-features-area .container-fluid {
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+    .saas-services-inner-area::before {
+        width: 1040px;
+    }
+    .saas-services-slides.owl-theme .owl-nav::before {
+        right: 47.8%;
+        top: 50%;
+        -webkit-transform: translateY(-50%) translateX(-47.8%);
+        transform: translateY(-50%) translateX(-47.8%);
+        width: 265px;
+    }
+    .saas-services-slides.owl-theme .owl-nav::after {
+        left: 63.5%;
+        top: 50%;
+        -webkit-transform: translateY(-50%) translateX(-63.5%);
+        transform: translateY(-50%) translateX(-63.5%);
+        width: 265px;
+    }
+    .nft-main-banner-area .container-fluid {
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+    .crypto-main-banner-area .container-fluid {
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+    .crypto-banner-content h1 {
+        font-size: 72px;
+    }
+    .crypto-work-shape {
+        max-width: 100%;
+        bottom: 0;
+        -webkit-transform: translateY(-12%);
+        transform: translateY(-12%);
+    }
+    .token-shape {
+        max-width: 100%;
+        bottom: 0;
+        -webkit-transform: translateY(-12%);
+        transform: translateY(-12%);
+    }
+    .crypto-faqs-shape {
+        max-width: 625px;
+        -webkit-transform: translateY(-12%);
+        transform: translateY(-12%);
+    }
+    /* End "Technology Services Demo", "SaaS Startup Demo", "NFT Startup Demo", "Crypto Startup Demo", "Responsive CSS" */
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+    /* Start "Technology Services Demo", "SaaS Startup Demo", "NFT Startup Demo", "Crypto Startup Demo", "Responsive CSS" */
+    .navbar-area-with-ts::before {
+        width: 230px;
+    }
+    .ts-main-banner-area .container-fluid {
+        padding-left: 45px;
+    }
+    .ts-offer-card {
+        padding: 25px 20px;
+    }
+    .crypto-about-left-content .about-countdown li {
+        padding: 12px 20px;
+    }
+    .saas-services-inner-area .container-fluid {
+        left: calc((100% - 1140px)/2);
+    }
+    .saas-services-card {
+        padding: 25px 20px;
+    }
+    .saas-services-card h3 {
+        font-size: 22px;
+    }
+    .saas-services-slides.owl-theme .owl-nav::after {
+        left: 67%;
+        -webkit-transform: translateX(-67%);
+        transform: translateX(-67%);
+    }
+    .nft-banner-content h1 {
+        font-size: 70px;
+    }
+    .nft-catergory-card h3 {
+        font-size: 18px;
+    }
+    .collections-card .content img {
+        max-width: 85px;
+    }
+    .collections-card .content .title h3 {
+        font-size: 18px;
+    }
+    /* End "Technology Services Demo", "SaaS Startup Demo", "NFT Startup Demo", "Crypto Startup Demo", "Responsive CSS" */
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    /* Start "Technology Services Demo", "SaaS Startup Demo", "NFT Startup Demo", "Crypto Startup Demo", "Responsive CSS" */
+    .nft-banner-card .banner-content.d-flex {
+        display: -webkit-box !important;
+        display: -ms-flexbox !important;
+        display: flex !important;
+    }
+    .collections-card.d-flex {
+        display: -webkit-box !important;
+        display: -ms-flexbox !important;
+        display: flex !important;
+    }
+    .artwork-list-tabs .nav .nav-item .nav-link {
+        font-size: 15px;
+    }
+    /* End "Technology Services Demo", "SaaS Startup Demo", "NFT Startup Demo", "Crypto Startup Demo", "Responsive CSS" */
+}
+
+
+/*# sourceMappingURL=responsive.css.map */

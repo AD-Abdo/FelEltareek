@@ -1,0 +1,758 @@
+.ms-auto {
+    margin-right: auto !important;
+    margin-left: unset !important;
+}
+.navbar-nav {
+    padding-right: 0;
+}
+.navbar-light .navbar-nav .nav-item:last-child .nav-link {
+    padding-left: 0 !important;
+    padding-right: 10px !important;
+}
+.main-banner-content {
+    text-align: right;
+}
+.main-banner-content .btn-primary {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.navbar-brand {
+    margin-right: 0;
+}
+.about-content .pull-left {
+    margin-left: 45px !important;
+    margin-right: 0 !important;
+}
+.tabs {
+    padding-right: 0;
+    padding-left: 0;
+}
+.join-content .btn-primary {
+    margin-left: 15px;
+    margin-right: 0;
+}
+.single-box.with-line::before {
+    left: -65px;
+    right: auto;
+}
+.client-info {
+    padding-right: 110px;
+    padding-left: 0;
+}
+.client-info .img {
+    right: 0;
+    left: auto;
+}
+.testimonials-item i {
+    left: 28px;
+    right: auto;
+}
+.newsletter form .btn {
+    right: 7px;
+    left: auto;
+}
+.newsletter form .form-control {
+    padding-right: 0;
+    padding-left: 15px;
+}
+.single-footer .contact-info li {
+    padding-right: 25px;
+    padding-left: 0;
+}
+.single-footer .contact-info li i {
+    right: 0;
+    left: auto;
+}
+.copyright-area ul {
+    text-align: left;
+}
+.go-top {
+    left: 20px;
+    right: auto;
+}
+.main-banner-content {
+    text-align: right;
+}
+.creative-bg {
+    left: 0;
+    right: auto;
+    border-radius: 0 100% 0 0;
+}
+.social-links li {
+    margin-left: 2px;
+    margin-right: 0;
+}
+.creative-bg-two {
+    left: 0;
+    right: auto;
+    border-radius: 0 100% 0 0%;
+}
+.list-unstyled {
+    padding-right: 0;
+}
+.offset-lg-1 {
+    margin-right: 8.3333333333%;
+    margin-left: 0;
+}
+.contact-box {
+    padding: 20px 90px 20px 20px;
+}
+.contact-box .icon {
+    right: 20px;
+    left: auto;
+}
+.bg-top {
+    z-index: -1;
+}
+.bg-bottom {
+    z-index: -1;
+}
+.repair-home-slides.owl-theme .owl-dots {
+    right: 8.5%;
+    left: auto;
+}
+.top-header .header-social {
+    padding-right: 0;
+}
+.top-header .header-social li span {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.top-header .location {
+    text-align: left;
+}
+.repair-about-content .section-title {
+    text-align: right;
+}
+.repair-about-content ul {
+    padding-right: 0;
+}
+.repair-services-inner .single-inner-services {
+    padding-right: 60px;
+    padding-left: 0;
+}
+.repair-services-inner .single-inner-services i {
+    right: 0;
+    left: auto;
+}
+.single-repair-feedback .client-info {
+    padding-right: 90px;
+    padding-left: 0;
+}
+.single-repair-feedback .client-info img {
+    right: 0;
+    left: auto;
+}
+.single-repair-feedback ul {
+    padding-right: 0;
+}
+.single-repair-blog-post .blog-content ul {
+    padding-right: 0;
+}
+.single-repair-blog-post .blog-content ul li::before {
+    right: -13px;
+    left: auto;
+}
+.single-repair-blog-post .blog-content ul li:last-child {
+    float: left;
+    margin-left: 0;
+}
+.single-repair-blog-post .blog-content ul li {
+    margin-left: 18px;
+    margin-right: 0;
+}
+.text-end {
+    text-align: left !important;
+}
+.repair-copyright-area ul li::before {
+    right: -13px;
+    left: auto;
+}
+.repair-copyright-area ul li {
+    padding-left: 20px;
+    padding-right: 0;
+}
+.repair-about-area {
+    overflow: hidden;
+}
+
+/* Start "Technology Services Demo", "SaaS Startup Demo", "NFT Startup Demo", "Crypto Startup Demo", "RTL CSS" */
+
+.navbar-area-with-ts .others-option .option-item {
+    margin-left: 20px;
+    margin-right: 0;
+}
+.navbar-area-with-ts .others-option .option-item:last-child {
+    margin-left: 0;
+}
+.ts-main-banner-area .container-fluid {
+    padding-right: 100px;
+    padding-left: 70px;
+}
+.ts-about-content {
+    margin-right: -190px;
+    margin-left: 0;
+}
+.ts-about-content .list li {
+    padding-right: 28px;
+    padding-left: 0;
+}
+.ts-about-content .list li i {
+    right: 0;
+    left: auto;
+}
+.ts-about-content .wrap-shape {
+    left: 0;
+    right: auto;
+}
+.text-start {
+    text-align: right!important;
+}
+.ts-feedback-slides {
+    padding-right: 75px;
+    padding-left: 0;
+}
+.ts-choose-image .text {
+    padding-right: 75px;
+    padding-left: 0;
+}
+.ts-choose-image {
+    padding: 0px 55px 95px 0;
+}
+.ts-choose-content .choose-inner-card {
+    padding-right: 120px;
+    padding-left: 0;
+}
+.ts-choose-content .choose-inner-card .icon {
+    right: 0;
+    left: auto;
+}
+.ts-choose-content .choose-inner-card::before {
+    right: 90px;
+    left: auto;
+}
+.ts-choose-area::before {
+    left: 0;
+    right: auto;
+}
+.ts-team-card .team-hover-content .social li {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.ts-team-card .team-hover-content .social li:last-child {
+    margin-left: 0;
+}
+.ts-pricing-card .wrap-shape {
+    left: 0;
+    right: auto;
+}
+.ts-pricing-card .list li {
+    padding-right: 25px;
+    padding-left: auto;
+}
+.ts-pricing-card .list li i {
+    right: 0;
+    left: auto;
+}
+.ts-pricing-switcher #filt-monthly {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.ts-pricing-switcher #filt-yearly {
+    margin-right: 10px;
+    margin-left: 0;
+}
+.ts-solution-content {
+    padding: 100px 45px 100px 120px !important;
+}
+.ts-solution-content .solution-inner-card {
+    border-right: 3.5px solid #F06334;
+    border-left: none;
+    padding-right: 30px;
+    padding-left: 0;
+}
+.ts-blog-card .meta li {
+    margin-left: 20px;
+    margin-right: 0;
+    padding-right: 22px;
+    padding-left: 0;
+}
+.ts-blog-card .meta li:last-child {
+    margin-left: 0;
+}
+.ts-blog-card .meta li i {
+    right: 0;
+    left: auto;
+}
+.single-footer-card .newsletter-form .default-btn {
+    left: 0;
+    right: auto;
+}
+.ps-5 {
+    padding-right: 3rem !important;
+    padding-left: 0 !important;
+}
+.single-footer-card .links.with-dot li a {
+    padding-right: 20px;
+    padding-left: 0;
+}
+.single-footer-card .links.with-dot li a::before {
+    right: 0;
+    left: auto;
+}
+.single-footer-card .contact-info li {
+    padding-right: 28px;
+    padding-left: 0;
+}
+.single-footer-card .contact-info li i {
+    right: 0;
+    left: auto;
+}
+.single-footer-card .social-icon li {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.single-footer-card .social-icon li:last-child {
+    margin-left: 0;
+}
+.copyright-wrap-area .inner-border .list li {
+    margin-left: 30px;
+    margin-right: 0;
+}
+.copyright-wrap-area .inner-border .list li:last-child {
+    margin-left: 0;
+}
+.copyright-wrap-area .inner-border .list li::before {
+    left: -16.8px;
+    right: auto;
+}
+.crypto-banner-content .big-text {
+    right: 0;
+    left: auto;
+}
+.crypto-banner-content .crypto-btn li {
+    margin-left: 15px;
+    margin-right: 0;
+}
+.crypto-banner-content .crypto-btn li:last-child {
+    margin-left: 0;
+}
+.crypto-about-right-content {
+    padding-right: 65px;
+    padding-left: 0;
+}
+.crypto-about-left-content .about-countdown li {
+    margin-left: 15px;
+    margin-right: 0;
+}
+.crypto-about-left-content .about-countdown li:last-child {
+    margin-left: 0;
+}
+.crypto-about-left-content .about-btn li {
+    margin-left: 30px;
+    margin-right: 0;
+}
+.crypto-about-left-content .about-btn li:last-child {
+    margin-left: 0;
+}
+.crypto-work-content .big-text {
+    right: 0;
+    left: auto;
+}
+.crypto-work-content .work-card .content {
+    padding-right: 95px;
+    padding-left: 0;
+}
+.crypto-work-content .work-card .content .icon {
+    right: 0;
+    left: auto;
+}
+.token-content .list li {
+    margin-left: 30px;
+    margin-right: 0;
+    padding-right: 28px;
+}
+.token-content .list li:last-child {
+    margin-left: 0;
+}
+.token-content .list li::before {
+    right: 0;
+    left: auto;
+}
+.token-distribution-content .skills .skill-item .skill-bar .bar-inner .bar {
+    right: -2px;
+    left: auto;
+}
+.token-distribution-content .skills .skill-item .skill-header .skill-percentage {
+    left: 0;
+    right: auto;
+}
+.token-distribution-content {
+    margin-right: auto;
+    margin-left: 0;
+}
+.jtimeline {
+    direction: ltr;
+}
+.crypto-faqs-content {
+    padding-right: 90px;
+    padding-left: 0;
+}
+.crypto-faqs-content .accordion .accordion-item .accordion-title {
+    padding: 0 35px 15px 15px;
+}
+.crypto-faqs-content .accordion .accordion-item .accordion-title::before {
+    right: 0;
+    left: auto;
+}
+.crypto-faqs-content .content .big-text {
+    right: 0;
+    left: auto;
+}
+.crypto-contact-info .list li a span {
+    margin-right: 10px;
+    margin-left: 0;
+}
+.crypto-work-shape {
+    left: 0;
+    right: auto;
+}
+.token-shape {
+    right: 0;
+    left: auto;
+}
+.crypto-faqs-shape {
+    right: 0;
+    left: auto;
+}
+.saas-key-features-content {
+    padding-right: 45px;
+    padding-left: 0;
+}
+.saas-key-features-content .features-inner-card {
+    padding-right: 90px;
+    padding-left: 0;
+}
+.saas-key-features-content .features-inner-card .icon {
+    right: 0;
+    left: auto;
+}
+.saas-work-with-inner-color::before {
+    right: 30px;
+    left: auto;
+}
+.saas-work-with-inner-color {
+    padding-right: 100px;
+    padding-left: 0;
+}
+.saas-benefits-content {
+    padding-left: 45px;
+    padding-right: 0;
+}
+.saas-benefits-content .benefits-inner-card {
+    padding-right: 90px;
+    padding-left: 0;
+}
+.saas-benefits-content .benefits-inner-card .icon {
+    right: 0;
+    left: auto;
+}
+.saas-feedback .ts-feedback-slides {
+    padding-right: 75px;
+    padding-left: 0;
+}
+.ts-feedback-quote-right {
+    left: 5%;
+    right: auto;
+    transform: translateX(-5%);
+}
+.saas-feedback .ts-feedback-shape {
+    left: 10%;
+    right: auto;
+    transform: translateX(-10%);
+}
+.saas-app-download-content .btn-box .playstore-btn {
+    margin-left: 15px;
+    margin-right: 0;
+    padding-right: 70px;
+    padding-left: 25px;
+}
+.saas-app-download-content .btn-box .playstore-btn img {
+    right: 20px;
+    left: auto;
+}
+.saas-app-download-content .btn-box .applestore-btn {
+    padding-right: 70px;
+    padding-left: 25px;
+}
+.saas-app-download-content .btn-box .applestore-btn img {
+    right: 20px;
+    left: auto;
+}
+.nft-banner-content .banner-btn li {
+    margin-left: 15px;
+    margin-right: 0;
+}
+.nft-banner-content .banner-btn li:last-child {
+    margin-left: 0;
+}
+.nft-banner-content .nft-banner-thumbs ul li {
+    margin-left: 25px;
+    margin-right: 0;
+}
+.nft-banner-content .nft-banner-thumbs ul li:last-child {
+    margin-left: 0;
+}
+.nft-banner-card .banner-content .info .title {
+    margin-right: 18px;
+    margin-left: 0;
+}
+.navbar-area-with-nft .others-option .option-item {
+    margin-left: 25px;
+    margin-right: 0;
+}
+.navbar-area-with-nft .others-option .option-item:last-child {
+    margin-left: 0;
+}
+.navbar-area-with-nft .others-option .option-item .search-box .input-search {
+    padding: 15px 20px 15px 65px;
+}
+.navbar-area-with-nft .others-option .option-item .search-box button {
+    left: 20px;
+    right: auto;
+}
+.live-auctions-card .auctions-content .info .title .name {
+    margin-right: 10px;
+    margin-left: 0;
+}
+.collections-card {
+    padding: 10px 10px 10px 25px;
+}
+.collections-card .content .title {
+    margin-right: 15px;
+    margin-left: 0;
+}
+.collections-card .sub {
+    padding-right: 15.5px;
+    padding-left: 0;
+}
+.collections-card .sub::before {
+    right: 0;
+    left: auto;
+}
+.artwork-list-tabs .nav .nav-item {
+    margin-left: 30px;
+    margin-right: 0;
+}
+.artwork-list-tabs .nav .nav-item:last-child {
+    margin-left: 0;
+}
+.artwork-card .info .title .name {
+    margin-right: 10px;
+    margin-left: 0;
+}
+.sellers-card .sellers-content .info .title .name {
+    margin-right: 10px;
+    margin-left: 0;
+}
+.saas-pricing-shape {
+    left: 4%;
+    right: auto;
+    transform: translateX(-4%);
+}
+
+/* End "Technology Services Demo", "SaaS Startup Demo", "NFT Startup Demo", "Crypto Startup Demo", "RTL CSS" */
+
+
+/* RTL responsive css*/
+@media only screen and (max-width: 767px) {
+    .bg-top {
+        display: none;
+    }
+    .bg-bottom {
+        display: none;
+    }
+    .repair-home-slides.owl-theme .owl-dots {
+        right: 0;
+        left: 0;
+    }
+    .top-header .location {
+        text-align: center;
+    }
+    .offset-lg-1 {
+        margin-right: 0;
+    }
+
+    /* Start "Technology Services Demo", "SaaS Startup Demo", "NFT Startup Demo", "Crypto Startup Demo", "RTL CSS" */
+
+    .ts-main-banner-area .container-fluid {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+    }
+    .ts-about-content {
+        margin-right: 0;
+    }
+    .ts-feedback-slides {
+        padding-right: 0;
+    }
+    .ts-choose-content .choose-inner-card {
+        padding-right: 75px;
+    }
+    .ts-choose-image {
+        padding: 0px 0 0 0;
+    }
+    .ts-choose-image .text {
+        padding-right: 0;
+    }
+    .ts-solution-content {
+        padding: 50px 15px !important;
+    }
+    .single-footer-card.ps-5 {
+        padding-right: 0 !important;
+    }
+
+    .crypto-about-left-content .about-btn li {
+        margin-left: 5px;
+    }
+    .crypto-about-left-content .about-countdown li {
+        margin-left: 5px;
+    }
+    .crypto-about-right-content {
+        padding-right: 0;
+    }
+    .crypto-faqs-content {
+        padding-right: 0;
+    }
+    .token-distribution-content {
+        margin: 30px auto 0;
+    }
+
+    .saas-key-features-content {
+        padding-right: 0;
+    }
+    .saas-benefits-content {
+        padding-left: 0;
+    }
+    .saas-feedback .ts-feedback-slides {
+        padding-right: 0;
+    }
+    .saas-work-with-inner-color {
+        padding: 30px 20px;
+    }
+    .saas-work-with-inner-color::before {
+        right: 0;
+    }
+    .artwork-list-tabs .nav .nav-item {
+        margin-left: 8px;
+    }
+
+    /* End "Technology Services Demo", "SaaS Startup Demo", "NFT Startup Demo", "Crypto Startup Demo", "RTL CSS" */
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .offset-lg-1 {
+        margin-right: 0;
+    }
+    .main-banner-content .btn-primary {
+        margin-left: 5px;
+    }
+
+    /* Start "Technology Services Demo", "SaaS Startup Demo", "NFT Startup Demo", "Crypto Startup Demo", "RTL CSS" */
+
+    .ts-main-banner-area .container-fluid {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+    }
+    .ts-about-content {
+        margin-right: 0;
+    }
+    .ts-feedback-slides {
+        padding-right: 0;
+    }
+    .ts-choose-content .choose-inner-card {
+        padding-right: 75px;
+    }
+    .ts-choose-image {
+        padding: 0px 0 0 0;
+    }
+    .ts-choose-image .text {
+        padding-right: 0;
+    }
+    .ts-solution-content {
+        padding: 50px 15px !important;
+    }
+    .single-footer-card.ps-5 {
+        padding-right: 0 !important;
+    }
+    .crypto-about-right-content {
+        padding-right: 0;
+    }
+    .crypto-faqs-content {
+        padding-right: 0;
+    }
+    .saas-key-features-content {
+        padding-right: 0;
+    }
+    .saas-benefits-content {
+        padding-left: 0;
+    }
+    .saas-feedback .ts-feedback-slides {
+        padding-right: 0;
+    }
+    .saas-work-with-inner-color {
+        padding: 30px 20px;
+    }
+    .saas-work-with-inner-color::before {
+        right: -50px;
+    }
+
+    /* End "Technology Services Demo", "SaaS Startup Demo", "NFT Startup Demo", "Crypto Startup Demo", "RTL CSS" */
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .ts-main-banner-area .container-fluid {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+    }
+    .navbar-area-with-ts::after {
+        width: 180px;
+    }
+    .crypto-about-right-content {
+        padding-right: 30px;
+    }
+    .crypto-faqs-content {
+        padding-right: 30px;
+    }
+    .saas-benefits-content {
+        padding-left: 0;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+    .navbar-area-with-ts::after {
+        width: 220px;
+    }
+    .ts-main-banner-area .container-fluid {
+        padding-left: 45px;
+        padding: 45px;
+    }
+
+	.navbar-area-with-nft .others-option .option-item .search-box {
+		width: 315px;
+		position: relative;
+	}
+}
+
+@media only screen and (min-width: 1550px) {
+    .repair-home-slides.owl-theme .owl-dots {
+        right: 16.1%;
+        left: auto;
+    }
+    .ts-main-banner-area .container-fluid {
+        padding-right: 180px !important;
+        padding-left: 100px !important;
+    }
+    .ts-solution-content {
+        padding: 100px 80px 100px 185px !important;
+    }
+}

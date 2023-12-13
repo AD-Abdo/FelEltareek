@@ -1,0 +1,269 @@
+a {
+    color: #282A75;
+}
+
+.bg-gray {
+    background-color: #edf5ff;
+}
+
+.section-title span {
+    color: #282A75;
+}
+
+.section-title h3::before {
+    background: #282A75;
+}
+
+.owl-theme .owl-nav [class*="owl-"] {
+    color: #282A75;
+}
+
+.owl-theme .owl-nav [class*="owl-"]:hover {
+    background: #282A75;
+}
+
+.btn-primary {
+    background-color: #282A75;
+    border-color: #282A75;
+}
+
+.btn-primary.disabled,
+.btn-primary:disabled {
+    background-color: #282A75;
+    border-color: #282A75;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary:not(:disabled):not(.disabled):active,
+.show>.btn-primary.dropdown-toggle {
+    background-color: #6993ff;
+    border-color: #6993ff;
+}
+
+.btn-primary:hover {
+    background-color: #6993ff;
+    border-color: #6993ff;
+}
+
+.double-bounce1,
+.double-bounce2 {
+    background-color: #282A75;
+}
+
+.navbar-brand span {
+    color: #282A75;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #282A75;
+}
+
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show>.nav-link {
+    color: #282A75;
+}
+
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show>.nav-link {
+    color: #282A75;
+}
+
+.creative-bg {
+    background: #282A75;
+}
+
+.creative-bg-two {
+    background: #282A75;
+}
+
+.main-banner-form form .form-control:focus {
+    border-color: #282A75;
+}
+
+.single-features:hover {
+    background: #282A75;
+}
+
+.single-features i {
+    color: #282A75;
+}
+
+.about-content ul li i {
+    color: #282A75;
+}
+
+.about-text ul li i {
+    color: #282A75;
+}
+
+.about-text span {
+    background: rgba(88, 130, 253, 0.8);
+}
+
+.about-text .blockquote {
+    background: rgba(88, 130, 253, 0.4);
+}
+
+.single-services:hover {
+    background: #282A75;
+}
+
+.single-services i {
+    background: #282A75;
+}
+
+.single-services:hover i {
+    color: #282A75;
+}
+
+.tabs a:hover i,
+.tabs .current a i {
+    background: #282A75;
+}
+
+.tabs_item_content ul li i {
+    color: #282A75;
+}
+
+.tabs a:hover,
+.tabs .current a {
+    color: #282A75;
+}
+
+.funfacts-area::before {
+    background: #282A75;
+}
+
+.funFact i {
+    color: #282A75;
+}
+
+.fun-fact i {
+    color: #282A75;
+}
+
+.single-box:hover span {
+    background: #282A75;
+}
+
+.our-team .social li a {
+    color: #282A75;
+}
+
+.our-team .social li a:hover {
+    background: #282A75;
+}
+
+.single-team .pic::after {
+    border: 2px solid #282A75;
+}
+
+.single-team .social-links li a:hover {
+    background: #282A75;
+    border-color: #282A75;
+}
+
+.single-team .team-content {
+    border-top: 2px solid #282A75;
+}
+
+.testimonials-item:hover {
+    background: #282A75;
+}
+
+.client-info .client-title span {
+    color: #282A75;
+}
+
+.accordion .accordion-title {
+    background: #282A75;
+}
+
+.pricingTable .title {
+    background: #282A75;
+}
+
+.pricingTable:hover .price-value {
+    background: #282A75;
+}
+
+.pricing-table:hover .icon {
+    background: #282A75;
+}
+
+.pricing-table .pricing-table-header {
+    background: #282A75;
+}
+
+.pricing-table .icon {
+    color: #282A75;
+}
+
+.partner-area .owl-item img {
+    border: 1px solid #282A75;
+}
+
+.subscribe-area {
+    background: #282A75;
+}
+
+.newsletter h4 span {
+    color: #282A75;
+}
+
+.page-title {
+    background: #282A75;
+}
+
+.contact-box .icon {
+    border: 1px dashed #282A75;
+    color: #282A75;
+}
+
+.contact-box:hover .icon {
+    background: #282A75;
+}
+
+.contact-box .content p a:hover {
+    color: #282A75;
+}
+
+.single-footer .logo a span {
+    color: #282A75;
+}
+
+.single-footer ul li a:hover {
+    color: #282A75;
+}
+
+.single-footer .contact-info li i {
+    color: #282A75;
+}
+
+.copyright-area ul li a {
+    border: 1px solid #282A75;
+}
+
+.copyright-area ul li a:hover {
+    background: #282A75;
+    border-color: #282A75;
+}
+
+.go-top:hover {
+    background: #282A75;
+}
+
+.navbar-light .navbar-toggler {
+    border-color: #282A75;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(88, 130, 253, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+
+/*# sourceMappingURL=color-default.css.map */
